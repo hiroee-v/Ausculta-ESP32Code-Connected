@@ -1,0 +1,11 @@
+{
+  "build": "v2-bulk-timing-3",
+  "evidence": "User-reported physical single-file pass; local source snapshot only. Eight-file physical test pending.",
+  "sha256": {
+    "Ausculta_Recorder_with_SD_Card_Module_All_8_Mics_WORKING__1_.ino": "6d4a8c50d35da33b8666498d017739d8ba0ff7d5357c23ffbac44875feefcbef",
+    "AuscultaBleV2.h": "80d557429ec55c69f1b426171fd71dacdba123172b29ad5755d5fe2436866dcb",
+    "AuscultaBleBulk.h": "d9d2b52a63db419182b8f7c676b9d89514d47a202eb84dd8a8dde4beabe44450",
+    "BleV2Wire.h": "1f5a2cd2023703767d5dc2f2d14ddbabf4a711ead63993f57ff2c8a87047ab25",
+    "BleBulkWire.h": "c5e725a2e179101c18745b3b109d3878b345e5aff584ea2f12da19a3c05b7d3b"
+  }
+}
